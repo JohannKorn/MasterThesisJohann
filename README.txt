@@ -1,7 +1,7 @@
 ### Data Analysis scripts Johann Master Thesis
 
 The scripts are tested and finishing without errors in visual studio Code using the jupyter plug-in
-and the Python 3.12 plug in.
+and the Python 3.12 Kernel.
 
 Packages must be installed on your own.
 Use the command
@@ -31,3 +31,4 @@ If errors still occur try the following trouble shooting steps:
 DO NOT MOVE THE .IPYNB FILES OUT OF THE ROOT DIRECTORY! ALL OTHER FOLDERS ARE RELATIVE PATHS
 
 Enjoy! :) I put a lot of work into this.
+
