@@ -6,3 +6,9 @@ Data/CBA_3mo_WholeCochlea_Annotated.h5ad
 Data/CBA_9mo_TestPlates.h5ad
 Data/CBA_SGNAtlas_Annotated.h5ad
 Data/TMS_Brain_Myeloid.h5ad
+Data/Cell_Counts/20250812_CBA_3mo_1_Counts.csv
+Data/Cell_Counts/20250814_CBA_3mo_2_Counts.csv
+Data/Cell_Counts/20250814_CBA_3mo_3_Counts.csv
+Data/Cell_Counts/20250815_CBA_16mo_1_Counts.csv
+Data/Cell_Counts/20250815_CBA_16mo_2_Counts.csv
+Data/Cell_Counts/20250818_CBA_16mo_3_Counts.csv
